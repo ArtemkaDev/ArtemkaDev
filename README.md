@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ## GitHub Stats
-[![Lol](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical&count_private=true&hide=issues,stars)](https://github.com/ArtemkaDev?tab=repositories)
+[![](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical&count_private=true&hide=issues,stars)](https://github.com/ArtemkaDev?tab=repositories)
+![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=USC&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=RPGame&theme=radical)
+
 <!--
 **ArtemkaDev/ArtemkaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
