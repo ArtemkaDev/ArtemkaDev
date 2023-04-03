@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical)
+[![Lol](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical&count_private=true&hide=issues)](https://github.com/ArtemkaDev?tab=repositories)
 <!--
 **ArtemkaDev/ArtemkaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
