@@ -6,4 +6,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=RPGame&theme=radical)](https://github.com/ArtemkaDev/RPGame)
 <br>
 [![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=HttpRpc&theme=radical)](https://github.com/ArtemkaDev/HttpRpc)
-[![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=PythonTools&theme=radical)](https://github.com/AploCoin/PythonTools)
+[![](https://github-readme-stats.vercel.app/api/pin?username=AploCoin&repo=PythonTools&theme=radical)](https://github.com/AploCoin/PythonTools)
