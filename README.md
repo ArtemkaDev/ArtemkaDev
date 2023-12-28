@@ -14,12 +14,18 @@
 - ![JavaScript](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/14302163-8d7c-4e1d-bbdc-a2767520372b) JavaScript
 - ![TypeScript](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/898bd7d1-18d8-49e4-96bf-7d937098f8bc) TypeScript
 - ![WebPack](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/bc7d4796-ecdb-4b49-b97a-84cd865fdd87) WebPack
-- ![Async](ссылка-на-иконку-async) Async
-- ![Express.js](ссылка-на-иконку-expressjs) Express.js
-- ![Three.js](ссылка-на-иконку-threejs) Three.js
-- ![Discord.js](ссылка-на-иконку-discordjs) Discord.js
-- ![Telegram.js](ссылка-на-иконку-telegramjs) Telegram.js
-- ![Electron.js](ссылка-на-иконку-electronjs) Electron.js
+- ![Async](ссылка-на-иконку-async) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/fc5bcc3f-8334-443b-87a6-5ac05dfbcf7c)
+ Async
+- ![Express.js](ссылка-на-иконку-expressjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/603288f9-fe6f-423c-839f-eb8ec4cdb8d7)
+Express.js
+- ![Three.js](ссылка-на-иконку-threejs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/4b770848-9178-4670-9a74-1f0da64dd397)
+ Three.js
+- ![Discord.js](ссылка-на-иконку-discordjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/7ab0a145-e6de-45c0-813a-d9b87f2ab830)
+Discord.js
+- ![Telegram.js](ссылка-на-иконку-telegramjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d3cfdc29-14db-4a05-86f5-1563f9313871)
+Telegram.js
+- ![Electron.js](ссылка-на-иконку-electronjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/1d446a74-840a-4f99-9c79-563432f550de)
+Electron.js
 
 ## Python
 - ![Cython](ссылка-на-иконку-cython) Cython
