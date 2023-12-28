@@ -24,7 +24,8 @@ Express.js
 Discord.js
 - ![Telegram.js](ссылка-на-иконку-telegramjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d3cfdc29-14db-4a05-86f5-1563f9313871)
 Telegram.js
-- ![Electron.js](ссылка-на-иконку-electronjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/8ed3e9df-bb6f-424d-9056-3965b05b3bc8)
+- ![Electron.js](ссылка-на-иконку-electronjs) ![image](https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/27524eaf-c390-4de0-9d8d-39c37fc3cd74)
+
 Electron.js
 
 ## Python
