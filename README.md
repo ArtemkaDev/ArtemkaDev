@@ -83,5 +83,6 @@
 - <img src="ссылка-на-иконку-docker" width="20" height="20"> Docker
 
 # Work Examples
-- [Defin.com.ua](https://defin.com.ua)
-- [Volkov-agency.com.ua](https://volkov-agency.com.ua)
+- [Defin](https://defin.com.ua)
+- [Volkov Agency](https://volkov-agency.com.ua)
+- [Wallet Aplocoin](https://wallet.aplocoin.com/)
