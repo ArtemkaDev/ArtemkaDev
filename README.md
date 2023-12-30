@@ -25,8 +25,8 @@
 - <img src="" width="20" height="20"> JSON Web Tokens
 - <img src="" width="20" height="20"> Cors
 - <img src="" width="20" height="20"> Prisma
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/792e0af6-29a3-465d-a2f5-e13fcba8d484" width="20" height="20"> [Cryptography/Hashing](https://github.com/ArtemkaDev/HttpRpc)
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d512f3b6-ce6b-432f-8d1c-86b56c720ec9" width="20" height="20"> Net [(TCP/UDP)](https://nodejs.org/api/net.html)
+- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/792e0af6-29a3-465d-a2f5-e13fcba8d484" width="20" height="20"> [Cryptography / Hashing](https://github.com/ArtemkaDev/HttpRpc)
+- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d512f3b6-ce6b-432f-8d1c-86b56c720ec9" width="20" height="20"> Net [(TCP | UDP)](https://nodejs.org/api/net.html)
 
 ## Python
 - <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/18b6a749-ca89-4896-8774-9c7556a13bd0" width="20" height="20"> Cython
