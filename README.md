@@ -23,9 +23,9 @@
 
 
 ## Python
-- ![Cython](ссылка-на-иконку-cython | width=20) Cython
-- ![Pandas](ссылка-на-иконку-pandas | width=20) Pandas, numpy
-- ![PyPlet](ссылка-на-иконку-pyplet | width=20) PyPlet, PyGame
+- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/18b6a749-ca89-4896-8774-9c7556a13bd0" width="20" height="20"> Cython
+- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/87f28f2f-0294-40a4-9a59-f8248bf2a572" width="20" height="20"> Pandas, Numpy
+- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/75091f4a-167d-4387-a4a7-e467b9a4bb9e" width="20" height="20"> PyPlet, ![PyGame](https://github.com/ArtemkaDev/RPGame)
 - ![Discord.py](ссылка-на-иконку-discordpy | width=20) Discord.py
 - ![Telegram API](ссылка-на-иконку-telegramapi | width=20) Telegram API
 - ![Crypto Hashing](ссылка-на-иконку-crypto | width=20) Crypto Hashing
