@@ -57,3 +57,10 @@
 ## Linux
 - ![Ubuntu](ссылка-на-иконку-ubuntu | width=20) Ubuntu, Debian
 - ![Nginx](ссылка-на-иконку-nginx | width=20) Nginx, Apache
+
+
+
+
+
+
+
