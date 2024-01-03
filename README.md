@@ -21,7 +21,7 @@
 - Back-End:
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
-  - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=black)
+  - ![Rust](https://img.shields.io/badge/Rust-f9510a?style=for-the-badge&logo=rust&labelColor=black)
 
 ## BackEnd Node.js
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
