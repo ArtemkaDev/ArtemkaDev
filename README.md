@@ -16,7 +16,7 @@
   - ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&labelColor=black)
   - ![CSS/SCSS/Tailwind](https://img.shields.io/badge/CSS%2FSCSS%2FTailwind-1572B6?style=for-the-badge&logo=css3&labelColor=black)
   - ![JSX/TSX](https://img.shields.io/badge/JSX%2FTSX-563D7C?style=for-the-badge&logo=javascript&labelColor=black)
-  - ![i18n](https://img.shields.io/badge/i18n-1B1F23?style=for-the-badge&logo=i18next&labelColor=black)
+  - ![i18n](https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&labelColor=black)
   - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&labelColor=black)
 - Back-End:
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
@@ -28,7 +28,7 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
 - ![WebPack](https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&labelColor=black)
 - ![Async](https://img.shields.io/badge/Async-333333?style=for-the-badge&logo=async&labelColor=black)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&labelColor=black)
+- ![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&labelColor=black)
 - ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&labelColor=black)
 - ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&labelColor=black)
 - ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&labelColor=black)
