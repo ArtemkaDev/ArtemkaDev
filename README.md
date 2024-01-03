@@ -12,11 +12,11 @@
 ## Full Stack Development
 - Front-End:
   - ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black)
-  - ![Solid.js](https://img.shields.io/badge/Solid.js-222C37?style=for-the-badge&logo=solid.js&labelColor=black)
+  - ![Solid.js](https://img.shields.io/badge/Solid.js-222C37?style=for-the-badge&logo=solid&labelColor=black)
   - ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&labelColor=black)
   - ![CSS/SCSS/Tailwind](https://img.shields.io/badge/CSS%2FSCSS%2FTailwind-1572B6?style=for-the-badge&logo=css3&labelColor=black)
   - ![JSX/TSX](https://img.shields.io/badge/JSX%2FTSX-563D7C?style=for-the-badge&logo=javascript&labelColor=black)
-  - ![i18n](https://img.shields.io/badge/i18n-1B1F23?style=for-the-badge&logo=i18n&labelColor=black)
+  - ![i18n](https://img.shields.io/badge/i18n-1B1F23?style=for-the-badge&logo=i18next&labelColor=black)
   - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&labelColor=black)
 - Back-End:
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
