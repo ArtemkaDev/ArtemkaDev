@@ -11,78 +11,80 @@
 
 ## Full Stack Development
 - Front-End:
-  - <img src="ссылка-на-иконку-react" width="20" height="20"> <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>React</title><path d="M14.23 12.004a2.236 2.236 0 0 1-2.235 2.236 2.236 2.236 0 0 1-2.236-2.236 2.236 2.236 0 0 1 2.235-2.236 2.236 2.236 0 0 1 2.236 2.236zm2.648-10.69c-1.346 0-3.107.96-4.888 2.622-1.78-1.653-3.542-2.602-4.887-2.602-.41 0-.783.093-1.106.278-1.375.793-1.683 3.264-.973 6.365C1.98 8.917 0 10.42 0 12.004c0 1.59 1.99 3.097 5.043 4.03-.704 3.113-.39 5.588.988 6.38.32.187.69.275 1.102.275 1.345 0 3.107-.96 4.888-2.624 1.78 1.654 3.542 2.603 4.887 2.603.41 0 .783-.09 1.106-.275 1.374-.792 1.683-3.263.973-6.365C22.02 15.096 24 13.59 24 12.004c0-1.59-1.99-3.097-5.043-4.032.704-3.11.39-5.587-.988-6.38-.318-.184-.688-.277-1.092-.278zm-.005 1.09v.006c.225 0 .406.044.558.127.666.382.955 1.835.73 3.704-.054.46-.142.945-.25 1.44-.96-.236-2.006-.417-3.107-.534-.66-.905-1.345-1.727-2.035-2.447 1.592-1.48 3.087-2.292 4.105-2.295zm-9.77.02c1.012 0 2.514.808 4.11 2.28-.686.72-1.37 1.537-2.02 2.442-1.107.117-2.154.298-3.113.538-.112-.49-.195-.964-.254-1.42-.23-1.868.054-3.32.714-3.707.19-.09.4-.127.563-.132zm4.882 3.05c.455.468.91.992 1.36 1.564-.44-.02-.89-.034-1.345-.034-.46 0-.915.01-1.36.034.44-.572.895-1.096 1.345-1.565zM12 8.1c.74 0 1.477.034 2.202.093.406.582.802 1.203 1.183 1.86.372.64.71 1.29 1.018 1.946-.308.655-.646 1.31-1.013 1.95-.38.66-.773 1.288-1.18 1.87-.728.063-1.466.098-2.21.098-.74 0-1.477-.035-2.202-.093-.406-.582-.802-1.204-1.183-1.86-.372-.64-.71-1.29-1.018-1.946.303-.657.646-1.313 1.013-1.954.38-.66.773-1.286 1.18-1.868.728-.064 1.466-.098 2.21-.098zm-3.635.254c-.24.377-.48.763-.704 1.16-.225.39-.435.782-.635 1.174-.265-.656-.49-1.31-.676-1.947.64-.15 1.315-.283 2.015-.386zm7.26 0c.695.103 1.365.23 2.006.387-.18.632-.405 1.282-.66 1.933-.2-.39-.41-.783-.64-1.174-.225-.392-.465-.774-.705-1.146zm3.063.675c.484.15.944.317 1.375.498 1.732.74 2.852 1.708 2.852 2.476-.005.768-1.125 1.74-2.857 2.475-.42.18-.88.342-1.355.493-.28-.958-.646-1.956-1.1-2.98.45-1.017.81-2.01 1.085-2.964zm-13.395.004c.278.96.645 1.957 1.1 2.98-.45 1.017-.812 2.01-1.086 2.964-.484-.15-.944-.318-1.37-.5-1.732-.737-2.852-1.706-2.852-2.474 0-.768 1.12-1.742 2.852-2.476.42-.18.88-.342 1.356-.494zm11.678 4.28c.265.657.49 1.312.676 1.948-.64.157-1.316.29-2.016.39.24-.375.48-.762.705-1.158.225-.39.435-.788.636-1.18zm-9.945.02c.2.392.41.783.64 1.175.23.39.465.772.705 1.143-.695-.102-1.365-.23-2.006-.386.18-.63.406-1.282.66-1.933zM17.92 16.32c.112.493.2.968.254 1.423.23 1.868-.054 3.32-.714 3.708-.147.09-.338.128-.563.128-1.012 0-2.514-.807-4.11-2.28.686-.72 1.37-1.536 2.02-2.44 1.107-.118 2.154-.3 3.113-.54zm-11.83.01c.96.234 2.006.415 3.107.532.66.905 1.345 1.727 2.035 2.446-1.595 1.483-3.092 2.295-4.11 2.295-.22-.005-.406-.05-.553-.132-.666-.38-.955-1.834-.73-3.703.054-.46.142-.944.25-1.438zm4.56.64c.44.02.89.034 1.345.034.46 0 .915-.01 1.36-.034-.44.572-.895 1.095-1.345 1.565-.455-.47-.91-.993-1.36-1.565z"/></svg> React  
-  - <img src="ссылка-на-иконку-solidjs" width="20" height="20"> Solid.js
-  - <img src="ссылка-на-иконку-axios" width="20" height="20"> Axios
-  - <img src="ссылка-на-иконку-css" width="20" height="20"> CSS/SCSS/Tailwind
-  - <img src="ссылка-на-иконку-jsx" width="20" height="20"> JSX/TSX
-  - <img src="ссылка-на-иконку-i18n" width="20" height="20"> i18n
-  - <img src="ссылка-на-иконку-vite" width="20" height="20"> Vite
+  - ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black)
+  - ![Solid.js](https://img.shields.io/badge/Solid.js-222C37?style=for-the-badge&logo=solid.js&labelColor=black)
+  - ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&labelColor=black)
+  - ![CSS/SCSS/Tailwind](https://img.shields.io/badge/CSS%2FSCSS%2FTailwind-1572B6?style=for-the-badge&logo=css3&labelColor=black)
+  - ![JSX/TSX](https://img.shields.io/badge/JSX%2FTSX-563D7C?style=for-the-badge&logo=javascript&labelColor=black)
+  - ![i18n](https://img.shields.io/badge/i18n-1B1F23?style=for-the-badge&logo=i18n&labelColor=black)
+  - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&labelColor=black)
 - Back-End:
-  - <img src="ссылка-на-иконку-nodejs" width="20" height="20"> Node.js
-  - <img src="ссылка-на-иконку-python" width="20" height="20"> Python
-  - <img src="ссылка-на-иконку-rust" width="20" height="20"> Rust
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
+  - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=black)
 
 ## BackEnd Node.js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/14302163-8d7c-4e1d-bbdc-a2767520372b" width="20" height="20"> JavaScript
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/898bd7d1-18d8-49e4-96bf-7d937098f8bc" width="20" height="20"> TypeScript
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/bc7d4796-ecdb-4b49-b97a-84cd865fdd87" width="20" height="20"> WebPack
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/fc5bcc3f-8334-443b-87a6-5ac05dfbcf7c" width="20" height="20"> Async
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/603288f9-fe6f-423c-839f-eb8ec4cdb8d7" width="20" height="20"> Express.js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/1519384d-de65-4d7f-8327-fca9d084914f" width="20" height="20"> Nest.Js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/4b770848-9178-4670-9a74-1f0da64dd397" width="20" height="20"> Three.js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/7ab0a145-e6de-45c0-813a-d9b87f2ab830" width="20" height="20"> Discord.js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d3cfdc29-14db-4a05-86f5-1563f9313871" width="20" height="20"> Telegram.js
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/5a4f3be4-252e-4f73-81c0-e33776eb86e2" width="20" height="20"> Electron.js
-- <img src="" width="20" height="20"> Prisma
-- <img src="" width="20" height="20"> JSON Web Tokens
-- <img src="" width="20" height="20"> Cors
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/792e0af6-29a3-465d-a2f5-e13fcba8d484" width="20" height="20"> Cryptography / Hashing
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/d512f3b6-ce6b-432f-8d1c-86b56c720ec9" width="20" height="20"> Net (TCP | UDP)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
+- ![WebPack](https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&labelColor=black)
+- ![Async](https://img.shields.io/badge/Async-333333?style=for-the-badge&logo=async&labelColor=black)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&labelColor=black)
+- ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&labelColor=black)
+- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&labelColor=black)
+- ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&labelColor=black)
+- ![Telegram.js](https://img.shields.io/badge/Telegram.js-26A5E4?style=for-the-badge&logo=telegram&labelColor=black)
+- ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&labelColor=black)
+- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&labelColor=black)
+- ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&labelColor=black)
+- ![Cors](https://img.shields.io/badge/Cors-2D3748?style=for-the-badge&logo=cors&labelColor=black)
+- ![Cryptography / Hashing](https://img.shields.io/badge/Cryptography%20%2F%20Hashing-333333?style=for-the-badge&logo=security&labelColor=black)
+- ![Net (TCP | UDP)](https://img.shields.io/badge/Net%20%28TCP%20%7C%20UDP%29-000000?style=for-the-badge&logo=dot-net&labelColor=black)
 
 ## Python
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/18b6a749-ca89-4896-8774-9c7556a13bd0" width="20" height="20"> Cython
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/87f28f2f-0294-40a4-9a59-f8248bf2a572" width="20" height="20"> Pandas, Numpy
-- <img src="https://github.com/ArtemkaDev/ArtemkaDev/assets/87724011/75091f4a-167d-4387-a4a7-e467b9a4bb9e" width="20" height="20"> PyPlet, PyGame
-- <img src="" width="20" height="20"> Discord.py
-- <img src="" width="20" height="20"> Telegram API
-- <img src="" width="20" height="20"> Cryptography/Hashing
-- <img src="" width="20" height="20"> Django, Flask
-- <img src="" width="20" height="20"> Threading, Multiprocessing, Async.io
-- <img src="" width="20" height="20"> PyQt
+- ![Cython](https://img.shields.io/badge/Cython-9B5E48?style=for-the-badge&logo=cython&labelColor=black)
+- ![Pandas, Numpy](https://img.shields.io/badge/Pandas%2C%20Numpy-150458?style=for-the-badge&logo=data&labelColor=black)
+- ![PyPlet, PyGame](https://img.shields.io/badge/PyPlet%2C%20PyGame-306998?style=for-the-badge&logo=python&labelColor=black)
+- ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&labelColor=black)
+- ![Telegram API](https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&labelColor=black)
+- ![Cryptography/Hashing](https://img.shields.io/badge/Cryptography%2FHashing-333333?style=for-the-badge&logo=security&labelColor=black)
+- ![Django, Flask](https://img.shields.io/badge/Django%2C%20Flask-092E20?style=for-the-badge&logo=django&labelColor=black)
+- ![Threading, Multiprocessing, Async.io](https://img.shields.io/badge/Threading%2C%20Multiprocessing%2C%20Async.io-333333?style=for-the-badge&logo=python&labelColor=black)
+- ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&labelColor=black)
 
 ## C++
-- <img src="ссылка-на-иконку-opengl" width="20" height="20"> OpenGL
-- <img src="ссылка-на-иконку-vulkan" width="20" height="20"> Vulkan
-- <img src="ссылка-на-иконку-cmake" width="20" height="20"> CMake
-- <img src="ссылка-на-иконку-arduino" width="20" height="20"> Arduino
+- ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black)
+- ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&labelColor=black)
+- ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&labelColor=black)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&labelColor=black)
 
 ## Rust
-- <img src="ссылка-на-иконку-rust" width="20" height="20"> Helping with Blockchain
-- <img src="" width="20" height="20"> Tokio
-- <img src="" width="20" height="20"> Zstd
-- <img src="" width="20" height="20"> SQLx
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=black)
+- ![Helping with Blockchain](https://img.shields.io/badge/Helping%20with%20Blockchain-333333?style=for-the-badge&logo=blockchain&labelColor=black)
+- ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&labelColor=black)
+- ![Zstd](https://img.shields.io/badge/Zstd-333333?style=for-the-badge&logo=zstd&labelColor=black)
+- ![SQLx](https://img.shields.io/badge/SQLx-000000?style=for-the-badge&logo=sqlx&labelColor=black)
 
 ## WordPress
-- <img src="" width="20" height="20"> WordPress
-- <img src="" width="20" height="20"> PHP
-- <img src="" width="20" height="20"> Elementor
-- <img src="" width="20" height="20"> Woocommerce
-- <img src="" width="20" height="20"> Contact Form 7
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&labelColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black)
+- ![Elementor](https://img.shields.io/badge/Elementor-333333?style=for-the-badge&logo=elementor&labelColor=black)
+- ![Woocommerce](https://img.shields.io/badge/Woocommerce-96588A?style=for-the-badge&logo=woocommerce&labelColor=black)
+- ![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-333333?style=for-the-badge&logo=wordpress&labelColor=black)
 
 ## Databases
-- <img src="" width="20" height="20"> MongoDB
-- <img src="" width="20" height="20"> SQLite
-- <img src="" width="20" height="20"> PostgreSQL
-- <img src="" width="20" height="20"> MySQL
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&labelColor=black)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=black)
 
 ## Linux
-- <img src="" width="20" height="20"> Ubuntu, Debian
-- <img src="" width="20" height="20"> Nginx, Apache
-- <img src="ссылка-на-иконку-openvpn" width="20" height="20"> OpenVPN
-- <img src="ссылка-на-иконку-docker" width="20" height="20"> Docker
+- ![Ubuntu, Debian](https://img.shields.io/badge/Ubuntu%2C%20Debian-E95420?style=for-the-badge&logo=linux&labelColor=black)
+- ![Nginx, Apache](https://img.shields.io/badge/Nginx%2C%20Apache-009639?style=for-the-badge&logo=apache&labelColor=black)
+- ![OpenVPN](https://img.shields.io/badge/OpenVPN-333333?style=for-the-badge&logo=openvpn&labelColor=black)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black)
 
 # Work Examples
 - [Defin](https://defin.com.ua)
 - [Volkov Agency](https://volkov-agency.com.ua)
 - [Wallet Aplocoin](https://wallet.aplocoin.com/)
+
