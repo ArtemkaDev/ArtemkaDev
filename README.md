@@ -1,5 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 # GitHub Statistics
 
 [![](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical&count_private=true&hide=issues,stars)](https://github.com/ArtemkaDev?tab=repositories) <br /> <br />
