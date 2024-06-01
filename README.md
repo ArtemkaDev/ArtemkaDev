@@ -7,6 +7,15 @@
 [![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=HttpRpc&theme=radical)](https://github.com/ArtemkaDev/HttpRpc)
 [![](https://github-readme-stats.vercel.app/api/pin?username=AploCoin&repo=PythonTools&theme=radical)](https://github.com/AploCoin/PythonTools)
 
+# Work Examples
+- [Aplocoin](https://aplocoin.com/)
+- [Forza](https://www.forza.if.ua/)
+- [Defin](https://defin.com.ua)
+- [Volkov Agency](https://volkov-agency.com.ua)
+- [Esin Travel](https://esin-travel.moderno-agency.com.ua/)
+- [Vitaminler](https://vitaminler.moderno-agency.com.ua/)
+- [Wallet Aplocoin](https://wallet.aplocoin.com/)
+
 # Skills and Technologies
 
 ## Full Stack Development
@@ -83,11 +92,3 @@
 - ![Nginx, Apache](https://img.shields.io/badge/Nginx%2C%20Apache-009639?style=for-the-badge&logo=apache&labelColor=black)
 - ![OpenVPN](https://img.shields.io/badge/OpenVPN-333333?style=for-the-badge&logo=openvpn&labelColor=black)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black)
-
-# Work Examples
-- [Defin](https://defin.com.ua)
-- [Volkov Agency](https://volkov-agency.com.ua)
-- [Esin Travel](https://esin-travel.moderno-agency.com.ua/)
-- [Vitaminler](https://vitaminler.moderno-agency.com.ua/)
-- [Wallet Aplocoin](https://wallet.aplocoin.com/)
-
