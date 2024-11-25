@@ -8,6 +8,8 @@
 [![](https://github-readme-stats.vercel.app/api/pin?username=AploCoin&repo=PythonTools&theme=radical)](https://github.com/AploCoin/PythonTools)
 
 # Work Examples
+- [InterFuse](https://interfuse,agency/)
+- [DogiDog](https://dogidog.io/)
 - [Aplocoin](https://aplocoin.com/)
 - [Forza](https://www.forza.if.ua/)
 - [Defin](https://defin.com.ua)
