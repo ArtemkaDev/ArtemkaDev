@@ -22,7 +22,7 @@ I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical 
   <a href="https://interfuse.agency/work">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="assets/case-variants/08-tmux-stack.png">
-      <img src="assets/case-variants/08-tmux-stack.gif" width="960" height="280" alt="InterFuse case studies">
+      <img src="assets/case-variants/08-tmux-stack.gif" width="960" alt="InterFuse case studies">
     </picture>
   </a>
 </p>
@@ -61,6 +61,6 @@ I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical 
 <p id="activity">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board.png">
-    <img id="code-in-numbers" src="assets/activity-board.gif" width="1120" height="871" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
+    <img id="code-in-numbers" src="assets/activity-board.gif" width="1120" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
   </picture>
 </p>
