@@ -1,11 +1,16 @@
 <p>
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/ascii-console-coffee.png">
-    <img src="assets/banners/ascii-console-coffee.gif#gh-dark-mode-only" width="1120" alt="ArtemkaDev, CTO at InterFuse. Product engineering.">
-  </picture><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/ascii-console-coffee-light.png">
-    <img src="assets/banners/ascii-console-coffee-light.gif#gh-light-mode-only" width="1120" alt="ArtemkaDev, CTO at InterFuse. Product engineering.">
-  </picture>
+  <a href="assets/banners/ascii-console-coffee.gif#gh-dark-mode-only">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/ascii-console-coffee.png">
+      <img src="assets/banners/ascii-console-coffee.gif#gh-dark-mode-only" width="1120" alt="ArtemkaDev, CTO at InterFuse. Product engineering.">
+    </picture>
+  </a>
+  <a href="assets/banners/ascii-console-coffee-light.gif#gh-light-mode-only">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/ascii-console-coffee-light.png">
+      <img src="assets/banners/ascii-console-coffee-light.gif#gh-light-mode-only" width="1120" alt="ArtemkaDev, CTO at InterFuse. Product engineering.">
+    </picture>
+  </a>
 </p>
 
 I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical direction for client projects and lead the engineering team that delivers them. I work with clients to decide what to launch first and how it should fit into the way their business already operates.
@@ -18,15 +23,18 @@ I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical 
 - **Improve an existing product.** We fix performance problems, replace unreliable integrations, and help teams migrate or maintain their applications.
 
 <p>
-  <a href="https://interfuse.agency/contact"><img src="assets/contact.png#gh-dark-mode-only" height="34" alt="Discuss a project"><img src="assets/contact-light.png#gh-light-mode-only" height="34" alt="Discuss a project"></a>
+  <a href="https://interfuse.agency/contact#gh-dark-mode-only"><img src="assets/contact.png#gh-dark-mode-only" height="34" alt="Discuss a project"></a> <a href="https://interfuse.agency/contact#gh-light-mode-only"><img src="assets/contact-light.png#gh-light-mode-only" height="34" alt="Discuss a project"></a>
 </p>
 
 <p id="selected-work">
-  <a href="https://interfuse.agency/work">
+  <a href="https://interfuse.agency/work#gh-dark-mode-only">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="assets/case-variants/08-tmux-stack.png">
       <img src="assets/case-variants/08-tmux-stack.gif#gh-dark-mode-only" width="960" alt="InterFuse case studies">
-    </picture><picture>
+    </picture>
+  </a>
+  <a href="https://interfuse.agency/work#gh-light-mode-only">
+    <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="assets/case-variants/08-tmux-stack-light.png">
       <img src="assets/case-variants/08-tmux-stack-light.gif#gh-light-mode-only" width="960" alt="InterFuse case studies">
     </picture>
@@ -66,11 +74,16 @@ I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical 
 
 <p id="activity">
   <a id="code-in-numbers"></a>
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board.png">
-    <img src="assets/activity-board.gif#gh-dark-mode-only" width="1120" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
-  </picture><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board-light.png">
-    <img src="assets/activity-board-light.gif#gh-light-mode-only" width="1120" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
-  </picture>
+  <a href="assets/activity-board.gif#gh-dark-mode-only">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board.png">
+      <img src="assets/activity-board.gif#gh-dark-mode-only" width="1120" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
+    </picture>
+  </a>
+  <a href="assets/activity-board-light.gif#gh-light-mode-only">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board-light.png">
+      <img src="assets/activity-board-light.gif#gh-light-mode-only" width="1120" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
+    </picture>
+  </a>
 </p>
