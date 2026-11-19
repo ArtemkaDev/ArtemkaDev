@@ -1,96 +1,66 @@
-# GitHub Statistics
+<p>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/ascii-console-coffee.png">
+    <img src="assets/banners/ascii-console-coffee.gif" width="1120" alt="ArtemkaDev, CTO at InterFuse. Product engineering.">
+  </picture>
+</p>
 
-[![](https://github-readme-stats.vercel.app/api?username=ArtemkaDev&show_icons=true&theme=radical&count_private=true&hide=issues,stars)](https://github.com/ArtemkaDev?tab=repositories) <br /> <br />
-[![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=UCS&theme=radical)](https://github.com/ArtemkaDev/UCS)
-[![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=RPGame&theme=radical)](https://github.com/ArtemkaDev/RPGame)
-<br>
-[![](https://github-readme-stats.vercel.app/api/pin?username=ArtemkaDev&repo=HttpRpc&theme=radical)](https://github.com/ArtemkaDev/HttpRpc)
-[![](https://github-readme-stats.vercel.app/api/pin?username=AploCoin&repo=PythonTools&theme=radical)](https://github.com/AploCoin/PythonTools)
+I’m Artem, CTO at [InterFuse](https://interfuse.agency/). I set the technical direction for client projects and lead the engineering team that delivers them. I work with clients to decide what to launch first and how it should fit into the way their business already operates.
 
-# Work Examples
-- [InterFuse](https://interfuse,agency/)
-- [DogiDog](https://dogidog.io/)
-- [Aplocoin](https://aplocoin.com/)
-- [Forza](https://www.forza.if.ua/)
-- [Defin](https://defin.com.ua)
-- [Volkov Agency](https://volkov-agency.com.ua)
-- [Esin Travel](https://esin-travel.moderno-agency.com.ua/)
-- [Vitaminler](https://vitaminler.moderno-agency.com.ua/)
-- [Wallet Aplocoin](https://wallet.aplocoin.com/)
+## How InterFuse can help
 
-# Skills and Technologies
+- **Launch a web or mobile product.** We design and build web apps, customer portals, and iOS and Android apps.
+- **Replace manual work with software.** We turn spreadsheets and email handoffs into a shared workflow for approvals, permissions, and reporting.
+- **Sell online and connect your operations.** We build storefronts and connect checkout and payments to fulfillment and CRM.
+- **Improve an existing product.** We fix performance problems, replace unreliable integrations, and help teams migrate or maintain their applications.
 
-## Full Stack Development
-- Front-End:
-  - ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black)
-  - ![Solid.js](https://img.shields.io/badge/Solid.js-222C37?style=for-the-badge&logo=solid&labelColor=black)
-  - ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&labelColor=black)
-  - ![CSS/SCSS/Tailwind](https://img.shields.io/badge/CSS%2FSCSS%2FTailwind-1572B6?style=for-the-badge&logo=css3&labelColor=black)
-  - ![JSX](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-  - ![TSX](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
-  - ![i18n](https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18next&labelColor=black)
-  - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&labelColor=black)
-  - ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&labelColor=black)
-- Back-End:
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
-  - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=black)
-  
-## BackEnd Node.js
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
-- ![WebPack](https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&labelColor=black)
-- ![Async](https://img.shields.io/badge/Async-09B6A2?style=for-the-badge&logo=codeium&labelColor=black)
-- ![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&labelColor=black)
-- ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&labelColor=black)
-- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&labelColor=black)
-- ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&labelColor=black)
-- ![Telegram.js](https://img.shields.io/badge/Telegram.js-26A5E4?style=for-the-badge&logo=telegram&labelColor=black)
-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&labelColor=black)
-- ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&labelColor=black)
-- ![Cors](https://img.shields.io/badge/Cors-6DB33F?style=for-the-badge&logo=springsecurity&labelColor=black)
-- ![Cryptography / Hashing](https://img.shields.io/badge/Cryptography%20%2F%20Hashing-003A70?style=for-the-badge&logo=letsencrypt&labelColor=black)
-- ![Net (TCP | UDP)](https://img.shields.io/badge/Net%20%28TCP%20%7C%20UDP%29-2596BE?style=for-the-badge&logo=trpc&labelColor=black)
+<p>
+  <a href="https://interfuse.agency/contact"><img src="assets/contact.png" height="34" alt="Discuss a project"></a>
+</p>
 
-## Python
-- ![Cython](https://img.shields.io/badge/Cython-1D9FD7?style=for-the-badge&logo=pythonanywhere&labelColor=black)
-- ![Pandas, Numpy](https://img.shields.io/badge/Pandas%2C%20Numpy-013243?style=for-the-badge&logo=numpy&labelColor=black)
-- ![PyPlet, PyGame](https://img.shields.io/badge/PyPlet%2C%20PyGame-306998?style=for-the-badge&logo=python&labelColor=black)
-- ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&labelColor=black)
-- ![Telegram API](https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&labelColor=black)
-- ![Cryptography / Hashing](https://img.shields.io/badge/Cryptography%20%2F%20Hashing-003A70?style=for-the-badge&logo=letsencrypt&labelColor=black)
-- ![Django, Flask](https://img.shields.io/badge/Django%2C%20Flask-092E20?style=for-the-badge&logo=django&labelColor=black)
-- ![Threading, Multiprocessing, Async.io](https://img.shields.io/badge/Threading%2C%20Multiprocessing%2C%20Async.io-333333?style=for-the-badge&logo=python&labelColor=black)
-- ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&labelColor=black)
+<p id="selected-work">
+  <a href="https://interfuse.agency/work">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/case-variants/08-tmux-stack.png">
+      <img src="assets/case-variants/08-tmux-stack.gif" width="960" height="280" alt="InterFuse case studies">
+    </picture>
+  </a>
+</p>
 
-## C++
-- ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black)
-- ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&labelColor=black)
-- ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&labelColor=black)
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&labelColor=black)
+## Engineering stack
 
-## Rust
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=black)
-- ![Helping with Blockchain](https://img.shields.io/badge/Helping%20with%20Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&labelColor=black)
-- ![Tokio](https://img.shields.io/badge/Tokio-29A7DF?style=for-the-badge&logo=topcoder&labelColor=black)
-- ![Zstd](https://img.shields.io/badge/Zstd-4E5EE4?style=for-the-badge&logo=openzeppelin&labelColor=black)
-- ![SQLx](https://img.shields.io/badge/SQLx-003B57?style=for-the-badge&logo=sqlite&labelColor=black)
+| Area | Technologies |
+| --- | --- |
+| **Web applications** | <img src="assets/stack-compact/typescript-mark.png" width="89" height="20" alt="TypeScript"> <img src="assets/stack-compact/javascript-mark.png" width="87" height="20" alt="JavaScript"> <img src="assets/stack-compact/html5-mark.png" width="63" height="20" alt="HTML5"> <img src="assets/stack-compact/react-mark.png" width="58" height="20" alt="React"> <img src="assets/stack-compact/next-js-mark.png" width="64" height="20" alt="Next.js"> <img src="assets/stack-compact/astro-mark.png" width="56" height="20" alt="Astro"> |
+| **Mobile &amp; desktop apps** | <img src="assets/stack-compact/react-native-mark.png" width="99" height="20" alt="React Native"> <img src="assets/stack-compact/expo-mark.png" width="51" height="20" alt="Expo"> <img src="assets/stack-compact/swift-mark.png" width="55" height="20" alt="Swift"> <img src="assets/stack-compact/swiftui-mark.png" width="67" height="20" alt="SwiftUI"> <img src="assets/stack-compact/tauri-mark.png" width="54" height="20" alt="Tauri"> <img src="assets/stack-compact/electron-mark.png" width="73" height="20" alt="Electron"> |
+| **Backend services &amp; APIs** | <img src="assets/stack-compact/node-js-mark.png" width="67" height="20" alt="Node.js"> <img src="assets/stack-compact/nestjs-mark.png" width="65" height="20" alt="NestJS"> <img src="assets/stack-compact/express-mark.png" width="69" height="20" alt="Express"> <img src="assets/stack-compact/fastify-mark.png" width="64" height="20" alt="Fastify"> <img src="assets/stack-compact/socketdotio-mark.png" width="81" height="20" alt="Socket.IO"> <img src="assets/stack-compact/websocket-mark.png" width="99" height="20" alt="WebSockets"> <img src="assets/stack-compact/rabbitmq-mark.png" width="81" height="20" alt="RabbitMQ"> <img src="assets/stack-compact/openapiinitiative-mark.png" width="73" height="20" alt="OpenAPI"> |
+| **Python services &amp; automation** | <img src="assets/stack-compact/python-mark.png" width="65" height="20" alt="Python"> <img src="assets/stack-compact/django-mark.png" width="64" height="20" alt="Django"> <img src="assets/stack-compact/djangorest-mark.png" width="166" height="20" alt="Django REST Framework"> <img src="assets/stack-compact/flask-mark.png" width="54" height="20" alt="Flask"> <img src="assets/stack-compact/fastapi-mark.png" width="67" height="20" alt="FastAPI"> <img src="assets/stack-compact/pydantic-mark.png" width="75" height="20" alt="Pydantic"> <img src="assets/stack-compact/celery-mark.png" width="63" height="20" alt="Celery"> <img src="assets/stack-compact/httpx-mark.png" width="64" height="20" alt="HTTPX"> |
+| **Systems, firmware &amp; IoT** | <img src="assets/stack-compact/rust-mark.png" width="50" height="20" alt="Rust"> <img src="assets/stack-compact/go-mark.png" width="40" height="20" alt="Go"> <img src="assets/stack-compact/tokio-mark.png" width="56" height="20" alt="Tokio"> <img src="assets/stack-compact/axum-mark.png" width="56" height="20" alt="Axum"> <img src="assets/stack-compact/serde-mark.png" width="59" height="20" alt="Serde"> <img src="assets/stack-compact/cpp-mark.png" width="45" height="20" alt="C++"> <img src="assets/stack-compact/arduino-mark.png" width="70" height="20" alt="Arduino"> <img src="assets/stack-compact/platformio-mark.png" width="87" height="20" alt="PlatformIO"> <img src="assets/stack-compact/espressif-mark.png" width="78" height="20" alt="Espressif"> |
+| **Blockchain &amp; Web3** | <img src="assets/stack-compact/solana-mark.png" width="64" height="20" alt="Solana"> <img src="assets/stack-compact/anchor-mark.png" width="66" height="20" alt="Anchor"> <img src="assets/stack-compact/ethereum-mark.png" width="81" height="20" alt="Ethereum"> <img src="assets/stack-compact/solidity-mark.png" width="70" height="20" alt="Solidity"> <img src="assets/stack-compact/ethers-mark.png" width="75" height="20" alt="Ethers.js"> <img src="assets/stack-compact/viem-mark.png" width="53" height="20" alt="Viem"> |
+| **Databases &amp; storage** | <img src="assets/stack-compact/postgresql-mark.png" width="94" height="20" alt="PostgreSQL"> <img src="assets/stack-compact/mysql-mark.png" width="64" height="20" alt="MySQL"> <img src="assets/stack-compact/sqlite-mark.png" width="63" height="20" alt="SQLite"> <img src="assets/stack-compact/mongodb-mark.png" width="80" height="20" alt="MongoDB"> <img src="assets/stack-compact/redis-mark.png" width="56" height="20" alt="Redis"> <img src="assets/stack-compact/supabase-mark.png" width="82" height="20" alt="Supabase"> <img src="assets/stack-compact/amazons3-mark.png" width="88" height="20" alt="Amazon S3"> <img src="assets/stack-compact/minio-mark.png" width="57" height="20" alt="MinIO"> |
+| **Infrastructure &amp; deployment** | <img src="assets/stack-compact/linux-mark.png" width="55" height="20" alt="Linux"> <img src="assets/stack-compact/docker-mark.png" width="65" height="20" alt="Docker"> <img src="assets/stack-compact/nginx-mark.png" width="57" height="20" alt="Nginx"> <img src="assets/stack-compact/traefikproxy-mark.png" width="67" height="20" alt="Traefik"> <img src="assets/stack-compact/caddy-mark.png" width="62" height="20" alt="Caddy"> <img src="assets/stack-compact/cloudflare-mark.png" width="86" height="20" alt="Cloudflare"> <img src="assets/stack-compact/cloudflareworkers-mark.png" width="138" height="20" alt="Cloudflare Workers"> <img src="assets/stack-compact/github-actions-mark.png" width="112" height="20" alt="GitHub Actions"> |
 
-## WordPress
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&labelColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black)
-- ![Elementor](https://img.shields.io/badge/Elementor-333333?style=for-the-badge&logo=elementor&labelColor=black)
-- ![Woocommerce](https://img.shields.io/badge/Woocommerce-96588A?style=for-the-badge&logo=woocommerce&labelColor=black)
-- ![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-333333?style=for-the-badge&logo=wordpress&labelColor=black)
+<details>
+<summary>Additional tools</summary>
 
-## Databases
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black)
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&labelColor=black)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=black)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=black)
+| Area | Technologies |
+| --- | --- |
+| **UI, state &amp; forms** | <img src="assets/stack-compact/css-mark.png" width="48" height="20" alt="CSS"> <img src="assets/stack-compact/sass-mark.png" width="51" height="20" alt="Sass"> <img src="assets/stack-compact/tailwind-css-mark.png" width="101" height="20" alt="Tailwind CSS"> <img src="assets/stack-compact/motion-mark.png" width="65" height="20" alt="Motion"> <img src="assets/stack-compact/tanstack-mark.png" width="119" height="20" alt="TanStack Query"> <img src="assets/stack-compact/zustand-mark.png" width="72" height="20" alt="Zustand"> <img src="assets/stack-compact/reacthookform-mark.png" width="122" height="20" alt="React Hook Form"> <img src="assets/stack-compact/zod-mark.png" width="45" height="20" alt="Zod"> |
+| **Data processing &amp; machine learning** | <img src="assets/stack-compact/pandas-mark.png" width="66" height="20" alt="Pandas"> <img src="assets/stack-compact/numpy-mark.png" width="65" height="20" alt="NumPy"> <img src="assets/stack-compact/pillow-mark.png" width="59" height="20" alt="Pillow"> <img src="assets/stack-compact/opencv-mark.png" width="72" height="20" alt="OpenCV"> <img src="assets/stack-compact/pytorch-mark.png" width="72" height="20" alt="PyTorch"> <img src="assets/stack-compact/huggingface-mark.png" width="104" height="20" alt="Transformers"> |
+| **Search &amp; data access** | <img src="assets/stack-compact/elasticsearch-mark.png" width="103" height="20" alt="Elasticsearch"> <img src="assets/stack-compact/qdrant-mark.png" width="65" height="20" alt="Qdrant"> <img src="assets/stack-compact/prisma-mark.png" width="63" height="20" alt="Prisma"> <img src="assets/stack-compact/drizzle-mark.png" width="93" height="20" alt="Drizzle ORM"> <img src="assets/stack-compact/sqlx-mark.png" width="54" height="20" alt="SQLx"> <img src="assets/stack-compact/sqlalchemy-mark.png" width="98" height="20" alt="SQLAlchemy"> <img src="assets/stack-compact/alembic-mark.png" width="71" height="20" alt="Alembic"> |
+| **Testing &amp; code quality** | <img src="assets/stack-compact/jest-mark.png" width="50" height="20" alt="Jest"> <img src="assets/stack-compact/vitest-mark.png" width="60" height="20" alt="Vitest"> <img src="assets/stack-compact/playwright-mark.png" width="86" height="20" alt="Playwright"> <img src="assets/stack-compact/pytest-mark.png" width="62" height="20" alt="Pytest"> <img src="assets/stack-compact/eslint-mark.png" width="61" height="20" alt="ESLint"> <img src="assets/stack-compact/prettier-mark.png" width="70" height="20" alt="Prettier"> |
+| **Web frameworks &amp; UI libraries** | <img src="assets/stack-compact/solidjs-mark.png" width="67" height="20" alt="SolidJS"> <img src="assets/stack-compact/angular-mark.png" width="69" height="20" alt="Angular"> <img src="assets/stack-compact/svelte-mark.png" width="62" height="20" alt="Svelte"> <img src="assets/stack-compact/bootstrap-mark.png" width="83" height="20" alt="Bootstrap"> <img src="assets/stack-compact/redux-mark.png" width="60" height="20" alt="Redux"> <img src="assets/stack-compact/i18next-mark.png" width="65" height="20" alt="I18next"> |
+| **Build tooling** | <img src="assets/stack-compact/vite-mark.png" width="48" height="20" alt="Vite"> <img src="assets/stack-compact/webpack-mark.png" width="79" height="20" alt="Webpack"> <img src="assets/stack-compact/postcss-mark.png" width="75" height="20" alt="PostCSS"> <img src="assets/stack-compact/esbuild-mark.png" width="65" height="20" alt="Esbuild"> <img src="assets/stack-compact/turborepo-mark.png" width="86" height="20" alt="Turborepo"> <img src="assets/stack-compact/cmake-mark.png" width="64" height="20" alt="CMake"> |
+| **Graphics &amp; native UI** | <img src="assets/stack-compact/three-js-mark.png" width="72" height="20" alt="Three.js"> <img src="assets/stack-compact/opengl-mark.png" width="71" height="20" alt="OpenGL"> <img src="assets/stack-compact/vulkan-mark.png" width="63" height="20" alt="Vulkan"> <img src="assets/stack-compact/pyqt-mark.png" width="52" height="20" alt="PyQt"> <img src="assets/stack-compact/qt-mark.png" width="64" height="20" alt="PySide"> <img src="assets/stack-compact/pygame-mark.png" width="70" height="20" alt="Pygame"> |
+| **Bots &amp; integrations** | <img src="assets/stack-compact/aiogram-mark.png" width="72" height="20" alt="Aiogram"> <img src="assets/stack-compact/aiohttp-mark.png" width="68" height="20" alt="Aiohttp"> <img src="assets/stack-compact/axios-mark.png" width="55" height="20" alt="Axios"> <img src="assets/stack-compact/telegram-mark.png" width="74" height="20" alt="Telegraf"> <img src="assets/stack-compact/telegram-bot-api-mark.png" width="124" height="20" alt="Telegram Bot API"> <img src="assets/stack-compact/discord-js-mark.png" width="82" height="20" alt="Discord.js"> <img src="assets/stack-compact/discord-py-mark.png" width="87" height="20" alt="Discord.py"> |
+| **Additional languages &amp; frameworks** | <img src="assets/stack-compact/java-mark.png" width="51" height="20" alt="Java"> <img src="assets/stack-compact/springboot-mark.png" width="93" height="20" alt="Spring Boot"> <img src="assets/stack-compact/csharp-mark.png" width="43" height="20" alt="C#"> <img src="assets/stack-compact/dotnet-mark.png" width="50" height="20" alt=".NET"> <img src="assets/stack-compact/kotlin-mark.png" width="58" height="20" alt="Kotlin"> |
+| **E-commerce &amp; CMS** | <img src="assets/stack-compact/woocommerce-mark.png" width="115" height="20" alt="WooCommerce"> <img src="assets/stack-compact/shopify-mark.png" width="70" height="20" alt="Shopify"> <img src="assets/stack-compact/framer-mark.png" width="64" height="20" alt="Framer"> <img src="assets/stack-compact/wordpress-mark.png" width="89" height="20" alt="WordPress"> <img src="assets/stack-compact/php-mark.png" width="47" height="20" alt="PHP"> <img src="assets/stack-compact/gutenberg-mark.png" width="87" height="20" alt="Gutenberg"> <img src="assets/stack-compact/acf-mark.png" width="47" height="20" alt="ACF"> <img src="assets/stack-compact/elementor-mark.png" width="84" height="20" alt="Elementor"> <img src="assets/stack-compact/polylang-mark.png" width="73" height="20" alt="Polylang"> <img src="assets/stack-compact/wpml-mark.png" width="61" height="20" alt="WPML"> <img src="assets/stack-compact/wp-cli-mark.png" width="66" height="20" alt="WP-CLI"> |
 
-## Linux
-- ![Ubuntu, Debian](https://img.shields.io/badge/Ubuntu%2C%20Debian-E95420?style=for-the-badge&logo=linux&labelColor=black)
-- ![Nginx, Apache](https://img.shields.io/badge/Nginx%2C%20Apache-009639?style=for-the-badge&logo=apache&labelColor=black)
-- ![OpenVPN](https://img.shields.io/badge/OpenVPN-333333?style=for-the-badge&logo=openvpn&labelColor=black)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black)
+</details>
+
+<p id="activity">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-board.png">
+    <img id="code-in-numbers" src="assets/activity-board.gif" width="1120" height="871" alt="GitHub: 840 contributions. GitLab: 1,230 contributions. 583,039 total lines of code. TypeScript: 319,681. Python: 50,586. Rust: 48,171. CSS: 41,224. JavaScript: 32,956. PHP: 32,074. SCSS: 17,298. Go: 14,590. C++: 7,562. HTML: 5,630. Other: 13,267.">
+  </picture>
+</p>
